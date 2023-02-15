@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/etoko/static/css/main.a99f7696.css",
+    "main.js": "/etoko/static/js/main.85c5e021.js",
+    "static/media/bg2.jpg": "/etoko/static/media/bg2.0a8ec026376fe563f52f.jpg",
+    "static/media/img1.png": "/etoko/static/media/img1.01ea515e3b6d1cd38e10.png",
+    "static/media/img3.png": "/etoko/static/media/img3.31d36cf18d78b7b46927.png",
+    "static/media/img2.png": "/etoko/static/media/img2.be8b9242a219e14978fd.png",
+    "index.html": "/etoko/index.html",
+    "main.a99f7696.css.map": "/etoko/static/css/main.a99f7696.css.map",
+    "main.85c5e021.js.map": "/etoko/static/js/main.85c5e021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a99f7696.css",
+    "static/js/main.85c5e021.js"
+  ]
+}
